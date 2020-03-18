@@ -1,3 +1,4 @@
+# Kadane's Algorithm, O(n)
 array = [-2,2,5,-11,6]
 max_sum = array[0]
 current_sum = array[0]
